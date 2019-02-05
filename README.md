@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Projects
 
-You can use the [editor on GitHub](https://github.com/naive-batt/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Join me on my linear progression through machine learning projects as I learn how to teach my computer to learn like me.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Not MNSIT - Logistical Classifier
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hello to a World where bad handwriting becomes fixed with a trivial implementation of a linear classification model which normalizes training data to have zero mean and equal unit variance using matrix multiplication and randomly initiated gaussian distributed weights with a small sigma to increase uncertainty then applied to a softmax to give us intuitive probabilities which we then find the cross entropy loss of and find the average for all training data input taking the differential of this we can compute the optimized package of weights and biases taking a step back opposite to the direction of the derivative to infinity untill we reach an extrema (specifically minima) and have very easily trained our machine learning model [Not MNSIT](https://github.com/naive-batt/portfolio/edit/master/README.md)It includes conventions for
 
 ```markdown
 Syntax highlighted code block
